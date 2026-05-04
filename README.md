@@ -6,7 +6,7 @@ A fully open-sourced mock Bluebook experience so AP students can take real pract
 
 ## Mirroring
 
-This project lives on [Codeberg](https://codeberg.org/ackledotdev/cyanbook) and is mirrored (intended readonly) on [GitHub](https://codeberg.org/ackledotdev/cyanbook). See [GiveUpGitHub](https://sfconservancy.org/GiveUpGitHub/) and [Codeberg's mirroring article](https://codeberg.org/Recommendations/Mirror_to_Codeberg#1-why-should-we-mirror-to-codeberg) for more information.
+This project lives on [Codeberg](https://codeberg.org/ackledotdev/cyanbook) and is mirrored (intended readonly) on [GitHub](https://github.com/ackledotdev/cyanbook). See [GiveUpGitHub](https://sfconservancy.org/GiveUpGitHub/) and [Codeberg's mirroring article](https://codeberg.org/Recommendations/Mirror_to_Codeberg#1-why-should-we-mirror-to-codeberg) for more information.
 
 ## Roadmap
 
