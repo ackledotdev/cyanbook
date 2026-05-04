@@ -1,4 +1,4 @@
-# cyanbook
+# Cyanbook
 
 A fully open-sourced mock Bluebook experience so AP students can take real practice tests with the feeling of the Bluebook interface.
 
