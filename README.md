@@ -4,6 +4,10 @@ A fully open-sourced mock Bluebook experience so AP students can take real pract
 
 **This project is not associated with CollegeBoard. Bluebook is CollegeBoard's product.** This project does not claim or intend to replace Bluebook's testing functionality. This project seeks to *imitate* the interface of Bluebook solely for practice.
 
+## Mirroring
+
+This project lives on [Codeberg](https://codeberg.org/ackledotdev/cyanbook) and is mirrored (intended readonly) on [GitHub](https://codeberg.org/ackledotdev/cyanbook). See [GiveUpGitHub](https://sfconservancy.org/GiveUpGitHub/) and [Codeberg's mirroring article](https://codeberg.org/Recommendations/Mirror_to_Codeberg#1-why-should-we-mirror-to-codeberg) for more information.
+
 ## Roadmap
 
 This project is in the construction phase and not at all ready for testing.
