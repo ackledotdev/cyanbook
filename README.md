@@ -1,8 +1,8 @@
 # Cyanbook
 
-A fully open-sourced mock Bluebook experience so AP students can take real practice tests with the feeling of the Bluebook interface.
+A fully open-sourced mock Bluebook experience so AP Literature and Composition students can take real practice tests with the feeling of the Bluebook interface.
 
-**This project is not associated with CollegeBoard. Bluebook is CollegeBoard's product.** This project does not claim or intend to replace Bluebook's testing functionality. This project seeks to *imitate* the interface of Bluebook solely for practice.
+**This project is not associated with CollegeBoard. Bluebook is CollegeBoard's product.** This project does not claim or intend to replace Bluebook's testing functionality. This project seeks to _imitate_ the interface of Bluebook solely for practice.
 
 ## Mirroring
 
@@ -36,26 +36,25 @@ Test data must be entered in the specified JSON format. ~~See the examples folde
 
 ```jsonc
 {
-    "subject": "Literature and Composition",
-    "type": "MCQ",
-    "comment": "Practice MCQ 1", // optional
-    "questions": [
-        {
-            "prompt": "The imagery in the passage suggests all of the following about Satan EXCEPT his",
-            "passage": {
-                "text": "Now to the ascent of that steep savage hill\nSatan had journeyed on, pensive and slow;\nBut further way found none; so thick entwined,\nAs one continued brake, the undergrowth\nOf shrubs and tangling bushes had perplexed\nAll path of man or beast that passed that way. . .",
-                "attribution": "(1667)"
-            },
-            "responses": [
-                { "text": "pride", "correct": false },
-                { "text": "stealthiness", "correct": false },
-                { "text": "rapaciousness", "correct": false },
-                { "text": "stupidity", "correct": true },
-                { "text": unscrupulousness", "correct": false }
-            ]
-        },
-        // . . .
-    ]
+	"type": "MCQ",
+	"comment": "Practice MCQ 1", // optional
+	"questions": [
+		{
+			"prompt": "The imagery in the passage suggests all of the following about Satan EXCEPT his",
+			"passage": {
+				"text": "Now to the ascent of that steep savage hill\nSatan had journeyed on, pensive and slow;\nBut further way found none; so thick entwined,\nAs one continued brake, the undergrowth\nOf shrubs and tangling bushes had perplexed\nAll path of man or beast that passed that way. . .",
+				"attribution": "(1667)"
+			},
+			"responses": [
+				{ "text": "pride", "correct": false },
+				{ "text": "stealthiness", "correct": false },
+				{ "text": "rapaciousness", "correct": false },
+				{ "text": "stupidity", "correct": true },
+				{ "text": "unscrupulousness", "correct": false }
+			]
+		}
+		// . . .
+	]
 }
 ```
 
@@ -90,4 +89,3 @@ FRQ would be similar, with three question objects of the following format:
     "list": [ "Antigone", "Arcadia" //, . . . ]
 }
 ```
-
