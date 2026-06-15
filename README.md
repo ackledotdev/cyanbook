@@ -43,7 +43,8 @@ Test data must be entered in the specified JSON format. ~~See the examples folde
 			"prompt": "The imagery in the passage suggests all of the following about Satan EXCEPT his",
 			"passage": {
 				"text": "Now to the ascent of that steep savage hill\nSatan had journeyed on, pensive and slow;\nBut further way found none; so thick entwined,\nAs one continued brake, the undergrowth\nOf shrubs and tangling bushes had perplexed\nAll path of man or beast that passed that way. . .",
-				"attribution": "(1667)"
+				"attribution": "(1667)",
+				"lineNumbers": false
 			},
 			"responses": [
 				{ "text": "pride", "correct": false },
